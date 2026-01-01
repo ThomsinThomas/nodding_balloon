@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>nodding_balloon</string>
+	<key>CFBundleExecutable</key>
+	<string>nodding_balloon</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-073d7a92ee0ffaf4b7ce6152dbe46706305962e3457d08825047d7aaa053fb4e.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>nodding_balloon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>nodding_balloon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
