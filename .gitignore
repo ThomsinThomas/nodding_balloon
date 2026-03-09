@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Environments
+venv/
+env/
+.env
+
+# Build outputs
+build/
+dist/
+Output/
+*.pyc
+__pycache__/
+
+# Installer scripts and backups
+*.iss
+*.bak
